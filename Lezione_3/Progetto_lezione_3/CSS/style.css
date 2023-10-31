@@ -1,0 +1,49 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main{
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+}
+
+#text_title {
+    background: linear-gradient(#eaff00, #ffffff);
+    color: rgb(14, 123, 118);
+    height: 2.5em;
+    text-align: center;
+}
+
+#text{
+    text-transform: uppercase;
+}
+
+h1{
+    text-align: center;
+}
+
+#link{
+    color: red;
+    margin-top: 2em;
+    text-transform: uppercase;
+}
+
+a{
+    color: rgb(14, 123, 118);
+    text-transform: capitalize;
+}
+
+
+aside{
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+hr{
+    color: rgb(14, 123, 118);
+}

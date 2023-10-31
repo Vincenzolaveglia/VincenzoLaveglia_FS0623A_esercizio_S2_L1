@@ -1,0 +1,128 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Open Sans';
+    font-size: 1.2rem;
+    line-height: 1.65;
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding: 1.5em 1.5em;
+    
+}
+
+main section{
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+
+h1{
+    text-transform: capitalize;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #25a2c3;
+    line-height: 1.5;
+    padding: 0.5em;
+    font-size: 2rem;
+}
+
+main section button{
+    background: #f04c2f;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    border: 0px;
+}
+
+
+article{
+    padding: 1em;
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #25a2c3;
+    line-height: 1.5;
+    padding: 1em;
+}
+
+article img{
+    border-radius: 5em;
+}
+
+#testimonianza{
+    background-color: #e22d0e;
+    color: white;
+    font-size: 80%;
+}
+
+h3{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 1em 1em;
+}
+
+#frase{
+    font-style: oblique;
+    padding-bottom: 1em;
+}
+
+#testimone{
+    font-size: 1.2em;
+}
+
+#ruolo{
+    font-size: 80%;
+}
+
+aside{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.containerCard{
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 2em;
+}
+
+.card{
+    border: 1px solid #dee1e3;
+    font-size: 80%;
+}
+
+h4{
+    font-family: 'Montserrat';
+    color: #25a2c3;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+footer{
+    background-color: #25a2c3;
+}
+
+h5{
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+footer p, a{
+    color: #c8e7f0;
+    font-size: 70%;
+}
+
+hr{
+    margin: 0.5em 5em 0.5em 5em;
+}
